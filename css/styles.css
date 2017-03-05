@@ -1,0 +1,53 @@
+header{
+	
+    background-color: #2FB2BB
+    
+   }
+  
+.header1 { 
+padding: 1em;
+color: white
+background-color: blue;
+clear: left;
+text-align: right; 
+
+}
+
+.nav {
+text-align: center; 
+
+	}
+
+
+input.ide{
+
+	width:800px;
+	height:100px;
+}
+section.space{
+	height: 200px;
+}
+section{
+	height:550px;
+	font-family: century gothic;
+}
+section.ble{
+	background:#C3D7D9;
+}
+section.white{
+	background-color: white
+}
+section.grey{
+	padding: 1em;
+	clear: left;
+	text-align: left;
+	background:lightgrey;
+}
+.nav1{
+text-align: left;
+}
+.nav2{
+	text-align: right;
+
+
+ 
